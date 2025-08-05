@@ -9,21 +9,23 @@
 /* Begin PBXBuildFile section */
 		ABE4F2EB2E40B15C003A0632 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE4F2EA2E40B15C003A0632 /* AppDelegate.swift */; };
 		ABE4F2ED2E40B15C003A0632 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE4F2EC2E40B15C003A0632 /* SceneDelegate.swift */; };
-		ABE4F2EF2E40B15C003A0632 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE4F2EE2E40B15C003A0632 /* ViewController.swift */; };
 		ABE4F2F22E40B15C003A0632 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABE4F2F02E40B15C003A0632 /* Main.storyboard */; };
 		ABE4F2F42E40B15D003A0632 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABE4F2F32E40B15D003A0632 /* Assets.xcassets */; };
 		ABE4F2F72E40B15D003A0632 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABE4F2F52E40B15D003A0632 /* LaunchScreen.storyboard */; };
+		ABE4F2FF2E40B2DA003A0632 /* BreathingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE4F2FE2E40B2DA003A0632 /* BreathingViewController.swift */; };
+		ABE4F3012E40B2FA003A0632 /* StatsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABE4F3002E40B2FA003A0632 /* StatsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		ABE4F2E72E40B15C003A0632 /* whexhale.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = whexhale.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABE4F2EA2E40B15C003A0632 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ABE4F2EC2E40B15C003A0632 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		ABE4F2EE2E40B15C003A0632 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		ABE4F2F12E40B15C003A0632 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		ABE4F2F32E40B15D003A0632 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABE4F2F62E40B15D003A0632 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ABE4F2F82E40B15D003A0632 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ABE4F2FE2E40B2DA003A0632 /* BreathingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreathingViewController.swift; sourceTree = "<group>"; };
+		ABE4F3002E40B2FA003A0632 /* StatsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +60,8 @@
 			children = (
 				ABE4F2EA2E40B15C003A0632 /* AppDelegate.swift */,
 				ABE4F2EC2E40B15C003A0632 /* SceneDelegate.swift */,
-				ABE4F2EE2E40B15C003A0632 /* ViewController.swift */,
+				ABE4F2FE2E40B2DA003A0632 /* BreathingViewController.swift */,
+				ABE4F3002E40B2FA003A0632 /* StatsViewController.swift */,
 				ABE4F2F02E40B15C003A0632 /* Main.storyboard */,
 				ABE4F2F32E40B15D003A0632 /* Assets.xcassets */,
 				ABE4F2F52E40B15D003A0632 /* LaunchScreen.storyboard */,
@@ -138,8 +141,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ABE4F2EF2E40B15C003A0632 /* ViewController.swift in Sources */,
 				ABE4F2EB2E40B15C003A0632 /* AppDelegate.swift in Sources */,
+				ABE4F2FF2E40B2DA003A0632 /* BreathingViewController.swift in Sources */,
+				ABE4F3012E40B2FA003A0632 /* StatsViewController.swift in Sources */,
 				ABE4F2ED2E40B15C003A0632 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

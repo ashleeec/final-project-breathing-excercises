@@ -57,9 +57,10 @@ Apple Watch support
 
 ### 2. Screen Archetypes
 
-- [ ] Breathing Screen
+- [X] Breathing Screen
     - User presses and holds whale to breathe
-    - Exhale triggers animation + logs duration
+    - Exhale triggers animation + logs duration 
+
 
 - [ ] list second screen here]
     - Displays number of sessions this today, this month, and lifetime
@@ -73,7 +74,7 @@ Apple Watch support
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Breathing Screen
+- [X] Breathing Screen
     - User interacts directly with gesture on main screen
 
 - [ ] Analytics Screen

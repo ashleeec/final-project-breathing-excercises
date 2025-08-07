@@ -81,4 +81,13 @@ Apple Watch support
     - User taps on Stats tab to view analytics
 
 ## Wireframes
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/ZKgJEXQUnmlTHH3RkOTneb/whexhale?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+https://embed.figma.com/design/ZKgJEXQUnmlTHH3RkOTneb/whexhale?node-id=0-1&embed-host=share
+
+## Current Progress
+<div>
+    <a href="https://www.loom.com/share/3696938c88e64138b334c7199b33a4a2">
+    </a>
+    <a href="https://www.loom.com/share/3696938c88e64138b334c7199b33a4a2">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3696938c88e64138b334c7199b33a4a2-4d3ff1020e7e5a41-full-play.gif">
+    </a>
+  </div>
